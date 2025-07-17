@@ -1,6 +1,6 @@
-## Introdução ao HTML
+## Formulários
 
-### Tags <form> e seus modificadores
+### Tags ```<form>``` e seus modificadores
 |Tag|Modificador|Função|
 |---|---|---|
 |```<form>```|---|Adiciona um campo do tipo formulário.|
@@ -15,7 +15,7 @@
 |```<form>```|```autocomplete=""```|Determina se os campos salvarão os dados enviados no navegador. São utilizados dos comandos: ```on``` e ```off```.|
 |```<form>```|```onsubmit=""```|Adiciona o evento de quando o formulário for enviado. O comando é declarado via Javascript|
 
-### Tags <input> e seus modificadores
+### Tags ```<input>``` e seus modificadores
 
 |Tag|Modificador|Função|
 |---|---|---|
@@ -34,7 +34,7 @@
 |---|```type="checkbox"```|Input do tipo caixa, adicionando caixa de seleções. Possui modificadores associados como: ```name=""``` para determinar o mesmo bloco.|
 |---|```type="radio"```|Input do tipo botão rádio. Possui modificadores associados como: ```name=""``` para determinar o mesmo bloco.|
 
-#### Modificador <input type="checkbox">
+#### Modificador ```<input type="checkbox">```
 
 |Modificador Secundário|Função|
 |---|---|
@@ -43,7 +43,7 @@
 |```valor=""```|Adiciona o valor que será enviado do input.|
 |```disabled```|Deixa o campo inativo.|
 
-#### Tag <input type="radio">
+#### Tag ```<input type="radio">```
 
 |Modificador Secundário|Função|
 |---|---|
@@ -51,7 +51,7 @@
 |```valor=""```|Adiciona o valor que será enviado do input.|
 |```disabled```|Deixa o campo inativo.|
 
-### Tag <button> e seus modificadores
+### Tag ```<button>``` e seus modificadores
 
 |Tag|Modificador|Função|
 |---|---|---|
@@ -61,7 +61,7 @@
 |---|```type="reset"```|Apaga o conteúdo dos campos do formulário pai.|
 |---|```type="submit"```|Envia o conteúdo do formulário pai.|
 
-### Tag <select>, <option> e seus modificadores
+### Tag ```<select>```, ```<option>``` e seus modificadores
 
 |Tag|Modificador|Função|
 |---|---|---|
