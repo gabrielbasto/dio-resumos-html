@@ -27,8 +27,8 @@
 |```<b>```|Modifica o texto para *negrito*.|
 |```<strong>```|Modifica o texto para o *negrito* porém semânticamente é mais viável, em leitores de páginas para modificar a entonação do narrador.|
 |```<u>```|Modifica o texto para *sublinhado*.|
-|```<sub>```|Modifica o texto para *subscrito*.|
-|```<ins>```|Modifica o texto *sobrescrito*.|
+|```<sup>```|Modifica o texto para *sobescrito*.|
+|```<sub>```|Modifica o texto *subscrito*.|
 |```<mark>```|Destaca o texto com um *marcador*.|
 
 ### Atributos de Tags
